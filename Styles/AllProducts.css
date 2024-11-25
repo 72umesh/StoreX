@@ -1,0 +1,31 @@
+.dslr-images{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+#img1{
+    background-image: url(https://media.croma.com/image/upload/v1670424568/Croma%20Assets/Imaging/Camera%20and%20Camcorders/Images/263094_0_p4pxfs.png);
+    border: 2px solid;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+  }
+#img2{
+    background-image: url(https://poojaelectronics.in/storage/2022/09/GoPro-HERO11-Action-Camera-Black-Online-Buy-India_04.jpg);
+    border: 2px solid;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+  }
+#img3{
+    background-image:url(https://poojaelectronics.in/storage/2022/10/Akaso-EK7000-Action-Camera-Online-Buy-Mumbai-India_02.jpg);
+    border: 2px solid;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+  }

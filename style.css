@@ -1,0 +1,30 @@
+
+.nav-link{
+    font-size: 1.5rem;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+.brand-title{
+    position: relative;
+    text-align: center;
+    margin: 50px auto ;
+}
+.brand-title::before,.brand-title::after{
+    content: "";
+    background-color: black;
+    width: 35%;
+    height: 1px;
+    top: 50%;
+    position: absolute;
+}
+.brand-title::before{
+    left: 0;
+}
+.brand-title::after{
+    right: 0;
+}
